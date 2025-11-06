@@ -1,6 +1,7 @@
 # Google Search Console (GSC) Automation Project
 
 自動化されたGoogle Search Consoleデータ収集・分析システム。複数のサイトから検索パフォーマンスデータを取得し、Googleスプレッドシートにエクスポートし、週間ランキングとトレンド分析を生成します。
+https://docs.google.com/spreadsheets/d/1oIyrC36E2WCLA9Sys4X3EB8SKKIPnVccxRbgkKpuv7o/edit?gid=223113399#gid=223113399
 
 ##  目次
 
@@ -455,5 +456,6 @@ Google Apps Script - Google Console/
 **作成日**: 2025年
 **最終更新**: 2025年10月
 **バージョン**: 1.0
+
 
 
