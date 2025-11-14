@@ -6,13 +6,10 @@ https://docs.google.com/spreadsheets/d/1oIyrC36E2WCLA9Sys4X3EB8SKKIPnVccxRbgkKpu
 ## Table of Contents
 
 - [Overview](#Overview)
-- [Main Features](#Main Features)
 - [Architecture](#Architecture)
 - [Setup](#Setup)
 - [Settings](#Settings)
 - [Usage](#Usage)
-- [File Structure](#File Structure)
-- [API Requirements](#API Requirements)
 - [Troubleshooting](#Troubleshooting)
 
 ## Overview
@@ -221,3 +218,4 @@ rankingMetrics: ["clicks", "impressions", "ctr", "position"],
 topRankings: 50, // Number of top rankings to display
 weekStartDay: 1, // 1 = Monday, 0 = Sunday
 enableTrends: true, // Enable trend analysis
+
